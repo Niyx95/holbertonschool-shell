@@ -34,3 +34,25 @@ README file for basic direcotry, this is about basic controls, commands and scri
 
 ## 10-back
 - script that goes to parent directory
+
+## 11-lists
+- script that list files in multiple directories
+
+## 12-file_type
+- script that print the type of a file
+
+## 13-symbolic_link
+- script that creates a symlink
+
+## 14-copy_html
+- script that copies all html files
+
+## 15-lets_move
+- script that move all uppercase files
+
+## 16-clean_emacs
+- script that deletes all files ending with ~
+
+## 17-tree
+- script that creates a direcotry and all missing directories
+
