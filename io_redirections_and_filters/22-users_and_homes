@@ -1,0 +1,2 @@
+#!/bin/bash
+cut --fields=users, home /etc/passwd | sort
